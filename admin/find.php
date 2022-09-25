@@ -6,7 +6,7 @@
 </head>
 
 <body>
-<form action="../index.php" method="get">
+<form action="../index.html" method="get">
   <input type="text" id="name" name="name"><br><br>
   <input type="submit" value="Submit">
 </form>
